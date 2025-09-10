@@ -1,0 +1,5 @@
+{
+  "name": "Document Extractor",
+  "description": "An app to extract information from police documents using AI and export to CSV.",
+  "requestFramePermissions": []
+}
